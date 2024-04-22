@@ -1,0 +1,9 @@
+sudo groupadd mortal
+sudo groupadd victory
+sudo useradd mileena -g mortal -G victory
+mkdir /home/devasc/mortal
+touch /home/devasc/mortal/narnia.txt
+sudo chown mileena:mortal /home/devasc/mortal/narnia.txt
+sudo chmod 457 /home/devasc/mortal/narnia.txt
+ 
+

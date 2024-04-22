@@ -1,0 +1,7 @@
+print("Monday Morning")
+print("Documents")
+print("Downloads")
+print("labs")
+print("mortal")
+print("petit")
+print("snap")
